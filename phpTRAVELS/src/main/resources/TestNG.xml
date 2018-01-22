@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="PHP TRavels">
+	<test name ="PHP">
+		<classes>
+		
+		<class name ="pages.LoginPage">
+		
+		</class>
+		
+		</classes>
+	
+	</test>
+
+
+</suite>
