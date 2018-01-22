@@ -2,14 +2,8 @@
 <suite name ="PHP TRavels">
 	<test name ="PHP">
 		<classes>
-		
-		<class name ="pages.LoginPage">
-		
+			<class name ="pages.LoginPage">
 		</class>
-		
 		</classes>
-	
 	</test>
-
-
 </suite>
